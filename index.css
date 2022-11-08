@@ -306,7 +306,6 @@ STEPS
   align-items: center;
 }
 
-
 .steps__h1 {
   text-align: center;
 }
@@ -926,7 +925,7 @@ footer {
   }
 
   .service {
-    width: calc(100%/2);
+    width: calc(100% / 2);
   }
 
   .choices {
@@ -982,7 +981,7 @@ footer {
   }
 
   .service {
-    width: calc(100%/1);
+    width: calc(100% / 1);
   }
 
   .quality__work {
@@ -1099,8 +1098,8 @@ footer {
   }
 
   .link {
-    width: calc(100%/3);
-    align-items: start;  
+    width: calc(100% / 3);
+    align-items: start;
     margin: 20px 0;
   }
 
@@ -1126,7 +1125,7 @@ footer {
 
   .get__started--input {
     border: 1px solid black;
-    color: white;
+    color: black;
     padding: 20px 30px;
     border-radius: 30px;
     margin-left: 0px;
@@ -1153,7 +1152,7 @@ footer {
   .values__text--wrapper {
     width: 85%;
   }
-  
+
   .testimonials__h1 {
     font-size: 32px;
     text-align: center;
@@ -1170,7 +1169,7 @@ footer {
   .testimonial__h4 {
     text-align: center;
   }
-  
+
   .testimonials__girl {
     margin: 0px;
   }
@@ -1188,7 +1187,7 @@ footer {
   }
 
   .link {
-    width: calc(100%/5);
+    width: calc(100% / 5);
     align-items: center;
   }
 
@@ -1199,7 +1198,7 @@ footer {
 
 @media (max-width: 624px) {
   .link {
-    width: calc(100%/4);
+    width: calc(100% / 4);
   }
 
   .links {
@@ -1209,7 +1208,7 @@ footer {
 
 @media (max-width: 480px) {
   .link {
-    width: calc(100%/3);
+    width: calc(100% / 3);
   }
 }
 
@@ -1264,7 +1263,7 @@ footer {
   }
 
   .link {
-    width: calc(100%/2);
+    width: calc(100% / 2);
   }
 }
 
@@ -1274,6 +1273,6 @@ footer {
   }
 
   .link {
-    width: calc(100%/1);
+    width: calc(100% / 1);
   }
 }
